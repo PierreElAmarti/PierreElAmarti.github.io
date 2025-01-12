@@ -54,11 +54,12 @@ ul {
     margin: 0 auto;
     list-style-type: none;
     padding: 0;
+    background-color: #f1f1f1;
 }
 
 li {
     display: inline-block;
-    color: white;
+    color: #000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -69,5 +70,5 @@ li a {
 }
 
 li a:visited {
-    color: white;
+    color: #000;
 }
