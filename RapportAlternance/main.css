@@ -73,3 +73,7 @@ li a {
 li a:visited {
     color: white;
 }
+
+li a:hover {
+    color: #F64C72;
+}
