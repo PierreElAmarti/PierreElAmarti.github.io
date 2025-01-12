@@ -5,12 +5,14 @@ body {
     margin: 0;
     padding: 0;
 }
+
 header {
     background-color: #4682b4;
     color: white;
     padding: 20px;
     text-align: center;
 }
+
 header h1 {
     color: white;
 }
@@ -18,21 +20,26 @@ header h1 {
 main {
     padding: 20px;
 }
+
 section {
     margin-bottom: 20px;
 }
+
 h1, h2 {
     color: #4682b4;
 }
+
 .image-container {
     text-align: center;
     margin: 20px 0;
 }
+
 .image-container img {
     max-width: 100%;
     height: auto;
     border: 2px solid #4682b4;
 }
+
 footer {
     background-color: #4682b4;
     color: white;
@@ -42,8 +49,28 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
 }
