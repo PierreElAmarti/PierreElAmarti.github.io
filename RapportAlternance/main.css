@@ -51,8 +51,6 @@ footer {
 }
 
 ul {
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
     margin: 0 auto;
     list-style-type: none;
     padding: 0;
@@ -65,7 +63,7 @@ li {
 }
 
 li a {
-    display: block;
+    display: inline-block;
     color: white;
     text-align: center;
     padding: 14px 16px;
