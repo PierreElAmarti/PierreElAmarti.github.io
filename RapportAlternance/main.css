@@ -1,13 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
-    color: #333;
+    background-color: #2f2fa2;
+    color: white;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #4682b4;
     color: white;
     padding: 20px;
     text-align: center;
@@ -26,7 +25,7 @@ section {
 }
 
 h1, h2 {
-    color: #4682b4;
+    color: white;
 }
 
 .image-container {
@@ -41,7 +40,6 @@ h1, h2 {
 }
 
 footer {
-    background-color: #4682b4;
     color: white;
     text-align: center;
     padding: 10px;
@@ -54,16 +52,14 @@ ul {
     margin: 0 auto;
     list-style-type: none;
     padding: 0;
-    background-color: #333;
 }
 
 li {
     display: inline-block;
-    color: white;
+    color: #F64C72;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    border-right: 1px solid #bbb;
 }
 
 li:last-child {
