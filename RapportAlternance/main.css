@@ -1,19 +1,19 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #2f2fa2;
-    color: white;
+    background-color: #1F2833;
+    color: #66fcf1;
     margin: 0;
     padding: 0;
 }
 
 header {
-    color: white;
+    color: #66fcf1;
     padding: 20px;
     text-align: center;
 }
 
 header h1 {
-    color: white;
+    color: #66fcf1;
 }
 
 main {
@@ -25,7 +25,7 @@ section {
 }
 
 h1, h2 {
-    color: white;
+    color: #66fcf1;
 }
 
 .image-container {
@@ -36,11 +36,10 @@ h1, h2 {
 .image-container img {
     max-width: 100%;
     height: auto;
-    border: 2px solid #4682b4;
 }
 
 footer {
-    color: white;
+    color: #66fcf1;
     text-align: center;
     padding: 10px;
     position: fixed;
@@ -56,7 +55,6 @@ ul {
 
 li {
     display: inline-block;
-    color: #F64C72;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -71,9 +69,9 @@ li a {
 }
 
 li a:visited {
-    color: white;
+    color: #66fcf1;
 }
 
 li a:hover {
-    color: #F64C72;
+    color: #45A29E;
 }
