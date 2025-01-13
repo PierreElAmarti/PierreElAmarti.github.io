@@ -51,6 +51,8 @@ ul {
     margin: 0 auto;
     list-style-type: none;
     padding: 0;
+    border-bottom: 1px solid #66fcf1;
+    border-top: 1px solid #66fcf1;
 }
 
 li {
